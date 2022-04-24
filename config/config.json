@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x49Aa54a5E54B1d6143e033C7AdC75B10668f5DBe",
+  "SCAN_LINK": "https://etherscan.io/address/0x49aa54a5e54b1d6143e033c7adc75b10668f5dbe",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Ether",
+    "ID": 1
+  },
+  "NFT_NAME": "MutantMurakami",
+  "SYMBOL": "Mutant",
+  "MAX_SUPPLY": 333,
+  "WEI_COST": 25000000000000000,
+  "DISPLAY_COST": 0.025,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
